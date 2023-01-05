@@ -1,0 +1,168 @@
+{
+    "pmaygData": {
+        "hasPmayg": true,
+        "isAdhaar": true,
+        "pmaygid": "1234",
+        "aadharDocBack": {
+            "height": 4000,
+            "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/e8fe8b96-ae24-4816-b6be-0fb3d34bd59d.jpg",
+            "width": 3000
+        },
+        "aadharDocFront": {
+            "height": 4000,
+            "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/846d5a9b-90bd-4226-914c-a3ad5eb94aea.jpg",
+            "width": 3000
+        },
+        "aadharNo": "1234",
+        "benificiaryName": "Testing",
+        "consentDoc": {
+            "height": 4000,
+            "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/3696f00b-f2b4-412c-8d66-157e1935f46f.jpg",
+            "width": 3000
+        }
+    },
+    "mgnrega": {
+        "hasMgnrega": true,
+        "jobCardNo": "1245",
+        "noOfFamilyMember": "2",
+        "aadharDataAll": [
+            {
+                "familyMemberName": "1236",
+                "isAdhaar": true,
+                "aadharNo": "987",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/a0a72b55-15a0-4791-a250-9d05fc62473b.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/79af3288-9f06-4b3f-8f46-46c0830a90e0.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/eab5d978-786f-45e3-950f-4d68173e7f16.jpg",
+                    "width": 3000
+                }
+            },
+            {
+                "familyMemberName": "365",
+                "isAdhaar": true,
+                "aadharNo": "",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/63e1e0b8-ca78-4048-9c0b-a24a03a57165.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/181bda74-bf2a-4eae-9a7e-b0d1ea0503d3.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/1455ca53-5720-43d3-b54f-2fa664facad2.jpg",
+                    "width": 3000
+                }
+            }
+        ]
+    },
+    "sap": {
+        "hasSap": true,
+        "isCheckedIGNDPS": true,
+        "isCheckedIGNOAPS": true,
+        "isCheckedIGNWPS": true,
+        "isCheckedSKKSBPA": true,
+        "sapData": [
+            {
+                "aadharNo": "12345",
+                "benificiaryName": "365",
+                "isAdhaar": true,
+                "sanctionId": "1235",
+                "schemeName": "IGNOAPS",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/9929ab72-50af-40c0-a0f8-eff1cc28e506.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/0ca37d1f-123d-4d03-93c1-84fd3a4f491e.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/ec275b6c-4b3c-43a9-83b1-d239cd5ab294.jpg",
+                    "width": 3000
+                }
+            },
+            {
+                "aadharNo": "3214",
+                "benificiaryName": "555",
+                "isAdhaar": true,
+                "sanctionId": "987",
+                "schemeName": "IGNWPS",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/2eddd85e-559a-4af6-afbb-f9dd9af90c55.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/a654ec0f-a8bb-4cb3-9e5e-59021ee1b7af.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/89d951bd-99bb-4aba-8b46-ab2a44924f11.jpg",
+                    "width": 3000
+                }
+            },
+            {
+                "isAdhaar": true,
+                "sanctionId": "999",
+                "schemeName": "IGNDPS",
+                "aadharNo": "32145",
+                "benificiaryName": "321",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/887bfe9b-dbfd-49e6-9633-438038e5bd75.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/53316837-0466-471b-a391-0929beda53cd.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/02bae96b-eb64-4b12-8848-86206bee5b91.jpg",
+                    "width": 3000
+                }
+            },
+            {
+                "aadharNo": "32145",
+                "benificiaryName": "2222",
+                "isAdhaar": true,
+                "sanctionId": "3214",
+                "schemeName": "SKKSBPA",
+                "aadharDocBack": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/93915818-ec3b-483a-85ef-5123be7ad2c9.jpg",
+                    "width": 3000
+                },
+                "aadharDocFront": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/4c113691-8cb5-4d7b-8dc3-321e9aad4772.jpg",
+                    "width": 3000
+                },
+                "consentDoc": {
+                    "height": 4000,
+                    "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FAadhar-ea2d2def-a7b2-452f-9be9-bcde477767fa/Camera/a5bbddf5-fc48-41aa-a4e1-18fdf8712cc6.jpg",
+                    "width": 3000
+                }
+            }
+        ]
+    }
+}
